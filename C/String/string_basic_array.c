@@ -1,0 +1,63 @@
+#include <stdio.h>
+void main()
+{
+    char name[6];
+    char adress[10];
+    char country[10];
+    printf("enter the character of the name\n");
+    scanf("%s", &name[0]);
+    printf("enter the characte of the name\n");
+    scanf("%s", &name[1]);
+    printf("enter the characte of the name\n");
+    scanf("%s", &name[2]);
+    printf("enter the characte of the name\n");
+    scanf("%s", &name[3]);
+    printf("enter the characte of the name\n");
+    scanf("%s", &name[4]);
+    printf("enter the character of the name\n");
+    scanf("%s", &name[5]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[0]);
+    printf("enter the characte of the adress\n");
+    scanf("%s", &adress[1]);
+    printf("enter the characte of the adress\n");
+    scanf("%s", &adress[2]);
+    printf("enter the characte of the adress\n");
+    scanf("%s", &adress[3]);
+    printf("enter the characte of the adress\n");
+    scanf("%s", &adress[4]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[5]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[6]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[7]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[8]);
+    printf("enter the character of the adress\n");
+    scanf("%s", &adress[9]);
+    printf("enter the character of the country\n");
+    scanf("%s", &country[0]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[1]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[2]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[3]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[4]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[5]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[6]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[7]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[8]);
+     printf("enter the character of the country\n");
+    scanf("%s", &country[9]);
+    printf("\n\nThe name is %c %c %c %c %c %c ", name[0], name[1], name[2], name[3], name[4],name[5]);
+    printf("\n\nThe adress is %c %c %c %c %c %c %c %c %c %c ", adress[0], adress[1], adress[2], adress[3], adress[4], adress[5],adress[6],adress[7],adress[8],adress[9]);
+    printf("\n\nThe country is %c %c %c %c %c %c %c %c %c %c ", country[0], country[1], country[2], country[3], country[4], country[5], country[6], country[7],country[8],country[9]);
+    
+}
